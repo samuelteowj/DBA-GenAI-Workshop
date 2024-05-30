@@ -58,7 +58,7 @@ def clear_session_states():
 
 #exercise 0 - hello world python
 def hello_world():
-	st.write("Hello World")
+	st.write("Hello Cruel World")
 	st.write("My name is ... ")
 
 #exercise 1 - input 
